@@ -1,1 +1,1 @@
-# ScienceVault (Sindri)
+# ScienceVault (Mimir)
