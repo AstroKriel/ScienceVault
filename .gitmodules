@@ -1,6 +1,3 @@
-[submodule "kriel_2025_ssd_sat"]
-	path = kriel_2025_ssd_sat
-	url = git@github.com:AstroKriel/Kriel2025_ssd_sat.git
 [submodule "kriel_2025_ssd_nl"]
 	path = kriel_2025_ssd_nl
 	url = git@github.com:AstroKriel/Kriel2025_ssd_nl.git
