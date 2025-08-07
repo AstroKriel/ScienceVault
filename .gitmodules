@@ -7,3 +7,6 @@
 [submodule "kriel_2022_subsonic_ssd_exp"]
 	path = kriel_2022_subsonic_ssd_exp
 	url = git@github.com:AstroKriel/Kriel2022_subsonic_ssd_exp.git
+[submodule "kriel_2025_quokka_mhd"]
+	path = kriel_2025_quokka_mhd
+	url = git@github.com:AstroKriel/Kriel2025_quokka_mhd.git
