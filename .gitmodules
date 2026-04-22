@@ -1,12 +1,12 @@
-[submodule "kriel-2026-ssd-nl"]
-	path = kriel-2026-ssd-nl
-	url = git@github.com:AstroKriel/Kriel2026_ssd_nl.git
-[submodule "kriel-2023-supersonic-ssd-exp"]
-	path = kriel-2023-supersonic-ssd-exp
-	url = git@github.com:AstroKriel/Kriel2023_supersonic_ssd_exp.git
-[submodule "kriel-2022-subsonic-ssd-exp"]
-	path = kriel-2022-subsonic-ssd-exp
-	url = git@github.com:AstroKriel/Kriel2022_subsonic_ssd_exp.git
+[submodule "kriel-2026-ssd-nonlinear"]
+	path = kriel-2026-ssd-nonlinear
+	url = git@github.com:AstroKriel/Kriel2026_ssd_nonlinear.git
+[submodule "kriel-2023-ssd-exp-supersonic"]
+	path = kriel-2023-ssd-exp-supersonic
+	url = git@github.com:AstroKriel/Kriel2023_ssd_exp_supersonic.git
+[submodule "kriel-2022-ssd-exp-subsonic"]
+	path = kriel-2022-ssd-exp-subsonic
+	url = git@github.com:AstroKriel/Kriel2022_ssd_exp_subsonic.git
 [submodule "kriel-beattie-curvature"]
 	path = kriel-beattie-curvature
 	url = git@github.com:AstroKriel/KrielBeattie_curvature.git
