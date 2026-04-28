@@ -1,1 +1,1 @@
-# ScienceVault (Mimir)
+# ScienceVault (Mimir; keeper of secrets)
