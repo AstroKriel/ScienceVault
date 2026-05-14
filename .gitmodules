@@ -15,3 +15,7 @@
 	path = kriel-quokka-mhd
 	url = git@github.com:AstroKriel/Kriel_quokka_mhd.git
 	branch = main
+[submodule "kriel-schober-ssd-saturation"]
+	path = kriel-schober-ssd-saturation
+	url = git@github.com:AstroKriel/KrielSchober_ssd_saturation.git
+	branch = main
