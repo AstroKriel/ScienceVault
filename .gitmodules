@@ -19,3 +19,6 @@
 	path = kriel-schober-ssd-saturation
 	url = git@github.com:AstroKriel/KrielSchober_ssd_saturation.git
 	branch = main
+[submodule "kriel-phd-thesis"]
+	path = kriel-phd-thesis
+	url = git@github.com:AstroKriel/Kriel_phd_thesis.git
