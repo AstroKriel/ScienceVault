@@ -22,3 +22,7 @@
 [submodule "kriel-phd-thesis"]
 	path = kriel-phd-thesis
 	url = git@github.com:AstroKriel/Kriel_phd_thesis.git
+[submodule "kriel-whittingham-galactic-dynamos"]
+	path = kriel-whittingham-galactic-dynamos
+	url = git@github.com:AstroKriel/KrielWhittingham-galactic-dynamos.git
+	branch = main
