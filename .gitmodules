@@ -26,3 +26,11 @@
 	path = kriel-whittingham-galactic-dynamos
 	url = git@github.com:AstroKriel/KrielWhittingham-galactic-dynamos.git
 	branch = main
+[submodule "lialios-stf"]
+	path = lialios-stf
+	url = git@github.com:StefanosLialios/Lialios_stf.git
+	branch = main
+[submodule "ranjan-ssd-ics"]
+	path = ranjan-ssd-ics
+	url = git@github.com:rishabhranjan2002/Ranjan_ssd_ICs.git
+	branch = main
