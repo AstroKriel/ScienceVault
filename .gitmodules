@@ -7,9 +7,9 @@
 [submodule "kriel-2022-ssd-exp-subsonic"]
 	path = kriel-2022-ssd-exp-subsonic
 	url = git@github.com:AstroKriel/Kriel2022_ssd_exp_subsonic.git
-[submodule "kriel-beattie-curvature"]
-	path = kriel-beattie-curvature
-	url = git@github.com:AstroKriel/KrielBeattie_curvature.git
+[submodule "kriel-beattie-schober-curvature"]
+	path = kriel-beattie-schober-curvature
+	url = git@github.com:AstroKriel/KrielBeattieSchober_curvature.git
 	branch = main
 [submodule "kriel-quokka-mhd"]
 	path = kriel-quokka-mhd
