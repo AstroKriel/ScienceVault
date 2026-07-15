@@ -28,7 +28,7 @@
 	branch = main
 [submodule "lialios-stf"]
 	path = lialios-stf
-	url = git@github.com:StefanosLialios/Lialios_stf.git
+	url = git@github.com:StefanosLialios/Lialios-stfd.git
 	branch = main
 [submodule "ranjan-ssd-ics"]
 	path = ranjan-ssd-ics
