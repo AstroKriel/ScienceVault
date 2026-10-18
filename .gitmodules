@@ -7,24 +7,24 @@
 [submodule "kriel-2022-ssd-exp-subsonic"]
 	path = kriel-2022-ssd-exp-subsonic
 	url = git@github.com:AstroKriel/Kriel2022-ssd-exp-subsonic.git
-[submodule "kriel-beattie-schober-curvature"]
-	path = kriel-beattie-schober-curvature
-	url = git@github.com:AstroKriel/KrielBeattieSchober-curvature.git
+[submodule "kriel-curvature"]
+	path = kriel-curvature
+	url = git@github.com:AstroKriel/Kriel-curvature.git
 	branch = main
 [submodule "kriel-quokka-mhd"]
 	path = kriel-quokka-mhd
 	url = git@github.com:AstroKriel/Kriel-quokka-mhd.git
 	branch = main
-[submodule "kriel-schober-ssd-saturation"]
-	path = kriel-schober-ssd-saturation
-	url = git@github.com:AstroKriel/KrielSchober-ssd-saturation.git
+[submodule "kriel-ssd-saturation"]
+	path = kriel-ssd-saturation
+	url = git@github.com:AstroKriel/Kriel-ssd-saturation.git
 	branch = main
 [submodule "kriel-2026-phd-thesis"]
 	path = kriel-2026-phd-thesis
 	url = git@github.com:AstroKriel/Kriel2026-phd-thesis.git
-[submodule "kriel-whittingham-galactic-dynamos"]
-	path = kriel-whittingham-galactic-dynamos
-	url = git@github.com:AstroKriel/KrielWhittingham-galactic-dynamos.git
+[submodule "kriel-galactic-dynamos"]
+	path = kriel-galactic-dynamos
+	url = git@github.com:AstroKriel/Kriel-galactic-dynamos.git
 	branch = main
 [submodule "lialios-stf"]
 	path = lialios-stf
